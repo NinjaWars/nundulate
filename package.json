@@ -9,7 +9,7 @@
     "build-storybook": "build-storybook -s public",
     "serve": "echo 'run:  yarn build-storybook         first' && serve ./storybook-static",
     "browse": "xdg-open http://localhost:3000",
-    "repo":"https://github.com/NinjaWars/nundulate"
+    "repo":"xdg-open https://github.com/NinjaWars/nundulate"
   },
   "devDependencies": {
     "astro": "^0.19.4"
